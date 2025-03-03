@@ -1,0 +1,10 @@
+# JoinLeaveMessages Configuration
+
+# Message color (use Minecraft color codes like &e for yellow, &a for green, etc.)
+message-color: "&e"
+
+# Join message format (supports PlaceholderAPI placeholders)
+join-message: "[+] %player_name%"
+
+# Leave message format (supports PlaceholderAPI placeholders)
+leave-message: "[-] %player_name%"
