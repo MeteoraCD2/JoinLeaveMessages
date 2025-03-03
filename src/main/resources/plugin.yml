@@ -1,0 +1,7 @@
+name: JoinLeaveMessages
+version: 1.0
+main: ru.mcd2.joinleavemessages.JoinLeaveMessages
+api-version: 1.21
+description: This simple and customizable plugin just sends a chat message when a player joins or leaves. You can customize the color, text, and use placeholders.
+author: MeteoraCD2
+softdepend: [PlaceholderAPI]
