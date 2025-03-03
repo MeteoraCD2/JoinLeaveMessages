@@ -1,2 +1,3 @@
 # JoinLeaveMessages
-This simple and customizable plugin just sends a chat message when a player joins or leaves. You can customize the color, text, and use placeholders.
+This simple and customizable Bukkit plugin just displays a player join or leave message in the chat. You can customize the color, text, and use placeholders.
+Tested on Paper v1.21.4 - compatibility with other versions hasn't been tested.
